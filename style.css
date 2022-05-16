@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./dive.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: rgba(96, 239, 33, 255);
+}
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+img {
+  background-size: contain;
+  width: 330px;
+  height: 250px;
+  border-radius: 5px;
+}
+
+/* w3 schools shadows with blur effect. Maybe add to pokemon*/
+div {
+  /* background-size: contain; */
+  box-shadow: 10px 10px 5px lightgray;
+  padding: 3px 3px 1px 3px;
+  width: 275px;
+  height: 190px;
+  background-size: cover;
+}
+
+.faceDown {
+  background-image: url(./portal.gif);
+
+  background-size: cover;
+}
+.plains {
+  background-image: url(./plains.gif);
+  background-size: cover;
+}
+.island {
+  background-image: url(./island.gif);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+.swamp {
+  background-image: url(./swamp.gif);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+.mountain {
+  background-image: url(./mountain.gif);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+.forest {
+  background-image: url(./forest.gif);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+.summer {
+  background-image: url(./summer.gif);
+  background-size: cover;
+}
+.hover {
+  cursor: pointer;
+}
