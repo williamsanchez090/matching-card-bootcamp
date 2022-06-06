@@ -1,22 +1,10 @@
-# ♠️ Week08 Bootcamp2019a Project: Matching Card Game
+# ♠️Matching Card Game
+![image](https://user-images.githubusercontent.com/101963767/172076493-738ff461-754c-4a79-8d93-c56880c65280.png)
 
-### Goal: Make a 10 card memory game - users must be able to select two cards and check if they are a match. If they are a match, they stay flipped. If not, they flip back over. Game is done when all cards are matched and flipped over. Example: http://www.fruit-burst.co.uk/fun-and-games/pairs-game 
+## Languages used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-### How to submit your code for review:
+## Optimizations
+I would work on the timing of this project slightly.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned:
+Javascript can be tricky, and it is important to reach out and check documentation when you run into errors. 
